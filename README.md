@@ -1,4 +1,4 @@
-# Job Vacancy Management CMS Website
+# Job Vacancy Management CMS Website for Client
 ### Technologies Used:
 - **Backend**: PHP.
 - **Database**: MySQL.

@@ -1,4 +1,5 @@
-# Website CMS Pengelola Lowongan Pekerjaan 
+# Job Vacancy Management CMS Website
+### Technologies Used:
 - **Backend**: PHP.
 - **Database**: MySQL.
 - **Framework**: Filament.
